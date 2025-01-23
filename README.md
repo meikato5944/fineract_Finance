@@ -1,3 +1,5 @@
+# 金融業務システムのオープンソース版という珍しい存在。
+
 Apache Fineract: A Platform for Microfinance
 ============
 <!-- TODO Reactivate when there is a working CI-CD instance: [![Swagger Validation](https://validator.swagger.io/validator?url=https://sandbox.mifos.community/fineract-provider/swagger-ui/fineract.yaml)](https://validator.swagger.io/validator/debug?url=https://sandbox.mifos.community/fineract-provider/swagger-ui/fineract.yaml) -->
